@@ -13,4 +13,4 @@ Troll php admin panel
 ![admin.php](https://user-images.githubusercontent.com/15075759/28488865-e582b870-6ebc-11e7-955e-98af5f6fa4fd.png)
 
 # License
-This project license MIT
+This project license [MIT](https://github.com/abdurrahmanekr/very-basic-php-admin-panel/blob/master/LICENSE)
